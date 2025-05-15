@@ -15,8 +15,7 @@ DIMOHON ARAHAN DI BACA DENGAN BENAR
 4. Setelah itu akan diminta untuk memasukan jumlah pembayaran. *sesuaikan dengan yang akan di bayarkan.
 
 <p align="center">
- <img src="pict/3.png
-" width="300">
+ <img src="pict/3.png" width="300">
 </p>
 
 4. Buka aplikasi e-wallet di ponsel anda untuk melakukan pembayaran melalui QRIS.
@@ -24,8 +23,7 @@ DIMOHON ARAHAN DI BACA DENGAN BENAR
 5. Lalu scan barcode yang tertera dan masukan jumlah sesuai yang sudah di input di awal.
    
 <p align="center">
- <img src="pict/4.png
-" width="300">
+ <img src="pict/4.png" width="300">
 </p>
 
 6. Tunggu waktu hingga selesai dan JANGAN PERNAH REFRESH/PINDAH/MENUTUP TAB TERSEBUT!
@@ -33,8 +31,7 @@ DIMOHON ARAHAN DI BACA DENGAN BENAR
 7. Jika tampilan sudah seperti ini maka pembayaran sudah selesai dan berhasil.
 
 <p align="center">
- <img src="pict/5.png
-" width="300">
+ <img src="pict/5.png" width="300">
 </p>
 
 

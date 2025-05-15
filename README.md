@@ -7,7 +7,7 @@ DIMOHON ARAHAN DI BACA DENGAN BENAR
 2. Pilih menu QRIS Payment Gateway.
 
 <p align="center">
- <img src="![Screenshot 2025-05-13 095643](https://github.com/user-attachments/assets/9fe3dd7d-2163-4429-9c52-85bbd06072f4)
+ <img src="(https://github.com/user-attachments/assets/9fe3dd7d-2163-4429-9c52-85bbd06072f4)
 " width="300">
 </p>
 
